@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Kali" max_length="40" name="x_snc_createnotes_kali" type="collection">
+        <element label="Customer" max_length="120" name="customer" type="string"/>
+        <element label="nmap scan" max_length="20000" name="nmap_scan" type="string"/>
+    </element>
+</database>
